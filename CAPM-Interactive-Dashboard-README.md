@@ -38,7 +38,7 @@ This interactive dashboard democratizes sophisticated financial analysis by prov
 
 **⚡ Lightning-Fast**: Get results in seconds, not hours
 
-## 🌟 Key Features That'll Make Your Portfolio Sparkle
+## 🌟 Key Features
 
 ### 🎪 Interactive Stock Selection
 - **Multi-stock picker**: Choose from popular stocks (TSLA, AAPL, NFLX, MSFT, MGM, AMZN, NVDA, GOOGL)
