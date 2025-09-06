@@ -46,8 +46,8 @@ This interactive dashboard democratizes sophisticated financial analysis by prov
 - **Real-time data**: Fresh data straight from Yahoo Finance APIs
 
 ### 📊 Professional-Grade Analytics
-- **Beta Calculation**: Measure systematic risk with mathematical precision [7][10]
-- **CAPM Returns**: Expected return calculations using Nobel Prize-winning methodology [3][6]
+- **Beta Calculation**: Measure systematic risk with mathematical precision 
+- **CAPM Returns**: Expected return calculations using Nobel Prize-winning methodology 
 - **S&P 500 Benchmarking**: Compare against market performance
 - **Risk-Free Rate Integration**: Incorporates current risk-free rates for accurate calculations
 
