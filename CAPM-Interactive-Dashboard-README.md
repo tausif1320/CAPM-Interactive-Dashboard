@@ -61,7 +61,7 @@ This interactive dashboard democratizes sophisticated financial analysis by prov
 
 ### 🧮 The Math Behind the Magic
 
-Our dashboard implements the **Capital Asset Pricing Model (CAPM)** [3][9]:
+Our dashboard implements the **Capital Asset Pricing Model (CAPM)** 
 
 ```
 E(Ri) = Rf + βi × (E(Rm) - Rf)
@@ -75,17 +75,17 @@ Where:
 
 ### 📐 Beta Calculation Engine
 
-Beta measures a stock's volatility relative to the market [4][7][13]:
+Beta measures a stock's volatility relative to the market
 
 ```python
 β = Covariance(Stock Returns, Market Returns) / Variance(Market Returns)
 ```
 
 **Beta Interpretation**:
-- **β = 1.0**: Moves with market (neutral risk) [13]
-- **β > 1.0**: More volatile than market (higher risk, higher potential returns) [4][13]
-- **β < 1.0**: Less volatile than market (lower risk, more stable) [4][13]
-- **β < 0**: Inverse correlation with market (rare, like gold during crashes) [13]
+- **β = 1.0**: Moves with market (neutral risk) 
+- **β > 1.0**: More volatile than market (higher risk, higher potential returns) 
+- **β < 1.0**: Less volatile than market (lower risk, more stable) 
+- **β < 0**: Inverse correlation with market (rare, like gold during crashes) 
 
 ## 🏗️ Technical Architecture
 
