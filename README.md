@@ -210,7 +210,7 @@ Through our analysis, this dashboard reveals crucial insights about market behav
 5. **Open Pull Request**
 
 ### 📧 Contact Information
-- **LinkedIn**: shaik-tausif-ali
+- **LinkedIn**: https://www.linkedin.com/in/shaik-tausif-ali?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 - **Email**: tosifsk570@gmail.com
 - **GitHub**: tausif1320
 
